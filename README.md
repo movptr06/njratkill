@@ -1,6 +1,6 @@
 # njratkill
 No more suffering from njrat!\
-This program was submitted as a portfolio when I entered high school.
+This program was submitted as a portfolio when I entered high school. This program will remove njrat 0.7
 
 ## How to use
 
