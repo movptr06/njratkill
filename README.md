@@ -1,6 +1,6 @@
 # njratkill
-No more suffering from njrat!\
-This program was submitted when I applied for high school. This program will remove njrat 0.7
+No more suffering from njrat! This program will remove njrat 0.7\
+This program was submitted when I applied for high school. It was after admission that this program was uploaded to GitHub.
 
 ## How to use
 
